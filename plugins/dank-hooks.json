@@ -1,6 +1,6 @@
 {
     "name": "Dank Hooks",
-    "capabilities": ["dankbar-widget"],
+    "capabilities": ["watch-events"],
     "category": "utilities",
     "repo": "https://github.com/AvengeMedia/dms-plugins",
     "path": "DankHooks",
